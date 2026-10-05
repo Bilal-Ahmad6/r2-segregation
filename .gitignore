@@ -3,3 +3,4 @@ logs/
 *.out
 size.json
 .current
+dump.err
