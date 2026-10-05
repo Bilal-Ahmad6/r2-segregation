@@ -1,0 +1,55 @@
+Montana|gitignored/legal-ai-scraper/montana|184
+Indiana|scrapers/legalai-scraper-indiana/download|34987
+Arizona|az/download|22836
+Alaska|opinions_2000/alaska|322
+Alaska|gitignored/legal-ai-scraper/alaska|322
+California|wa/california|1634
+California|gitignored/postrgres-ingestion-legalai/downloads/California|15185
+California|gitignored/legal-ai-scraper/california|36288
+Colorado|gitignored/legal-ai-scraper/colorado|202893
+Connecticut|ct/downloads|13226
+Connecticut|scrapers/legalai-scraper-connecticut/downloads|13226
+Florida|fl/api_scraper/api_downloads_Florida_Courts|87946
+Florida|fl-legacy/downloads|30832
+Florida|gitignored/legal-ai-scraper/florida|30832
+Washington|wa/downloads|19696
+Washington|gitignored/postrgres-ingestion-legalai/downloads/Washington|19424
+Michigan|mi/download|206517
+Minnesota|mn/downloads|27876
+Tennessee|tn/downloads|45444
+Virginia|va/download|19776
+Wisconsin|wi/download|8189
+Wisconsin|case-info/wisconsin|27538
+Kentucky|case-info/kentucky|26733
+Missouri|case-info/missouri|22340
+Arkansas|scrapers/legal-ai-scraper-arkansas/downloads|56021
+West Virginia|scrapers/legalai-scraper-west-virginia/downloads|17583
+Kansas|scrapers/legal-ai-scraper-kansas/downloads|15224
+North Dakota|scrapers/legalai-scraper-north-dakota/downloads|12018
+Hawaii|scrapers/legalai-scraper-hawaii/downloads|8239
+Oklahoma|scrapers/oklahoma-opinions/Downloads|6029
+Utah|scrapers/legalai-scraper-utah/downloads|5758
+Nebraska|scrapers/legalai-scraper-nebraska|4705
+Idaho|scrapers/legal-ai-scraper-idaho/download|3672
+Delaware|scrapers/legalai-scraper-delaware/downloads|3191
+South Dakota|scrapers/legalai-scraper-south-dakota/downloads|1896
+North Carolina|gitignored/legal-ai-scraper/north_carolina|72092
+New Mexico|gitignored/legal-ai-scraper/new_mexico|33204
+New Jersey|gitignored/legal-ai-scraper/new_jersey|20258
+South Carolina|gitignored/legal-ai-scraper/south_carolina|20172
+Massachusetts|gitignored/legal-ai-scraper/massachusetts|19389
+Iowa|gitignored/legal-ai-scraper/iowa|18988
+Pennsylvania|gitignored/legal-ai-scraper/pennsylvania|16207
+Oregon|gitignored/legal-ai-scraper/oregon|14114
+Vermont|gitignored/legal-ai-scraper/vermont|11306
+Nevada|gitignored/legal-ai-scraper/nevada|10088
+Maryland|gitignored/legal-ai-scraper/maryland|9850
+Rhode Island|gitignored/legal-ai-scraper/rhode_island|9146
+New Hampshire|gitignored/legal-ai-scraper/new_hampshire|5240
+Georgia|gitignored/legal-ai-scraper/georgia|2534
+Maine|gitignored/legal-ai-scraper/maine|1139
+_Special/DobbsData|scrapers/legalai_scrapper_dobbsdata|1638
+_Federal/US_Supreme_Court|gitignored/legal-ai-scraper/us-supreme-court-of-the-united-states|474
+_Unknown/case-pdfs|gitignored/case-pdfs|495
+_Unknown/postrgres-data|gitignored/postrgres-ingestion-legalai/data|1
+_Unknown/legalstats|gitignored/sourc-code-legalstats|1

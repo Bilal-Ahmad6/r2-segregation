@@ -1,0 +1,5 @@
+all.txt
+logs/
+*.out
+size.json
+.current
